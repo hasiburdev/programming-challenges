@@ -1,2 +1,5 @@
 a.out
 *.out
+input.txt
+output.txt
+error.txt

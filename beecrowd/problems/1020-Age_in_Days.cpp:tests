@@ -1,0 +1,23 @@
+[
+	{
+		"correct_answers":
+		[
+			"1 ano(s)\n1 mes(es)\n5 dia(s)"
+		],
+		"test": "400\n"
+	},
+	{
+		"correct_answers":
+		[
+			"2 ano(s)\n2 mes(es)\n10 dia(s)"
+		],
+		"test": "800\n\n\n\n\n"
+	},
+	{
+		"correct_answers":
+		[
+			"0 ano(s)\n1 mes(es)\n0 dia(s)"
+		],
+		"test": "30\n"
+	}
+]
