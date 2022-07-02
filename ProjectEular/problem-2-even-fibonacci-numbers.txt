@@ -1,0 +1,13 @@
+function fiboEvenSum(n) {
+  let p1 = 1,
+    p2 = 2,
+    nextNumber = 0,
+    sum = 2;
+  while (nextNumber <= n) {
+    nextNumber = p1 + p2;
+    p1 = p2;
+    p2 = nextNumber;
+    if (nextNumber % 2 === 0) sum += nextNumber;
+  }
+  return sum;
+}
